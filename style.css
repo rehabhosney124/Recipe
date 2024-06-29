@@ -1,0 +1,35 @@
+
+
+body{
+
+background-color:rgb(243, 215, 220) ;
+text-transform: initial;
+
+}
+
+div{
+    border-radius: 30px;
+    background-color: aliceblue;
+    width: 800px;
+    height: auto;
+    margin-left: 200px;
+    margin-top: 100px;
+    
+
+}
+img{
+    padding-top: 40px;
+    border-radius: 70px;
+    padding-left:10px;
+}
+.article{
+    padding-left:40px;
+}
+.aside{
+    background-color: rgb(233, 211, 203);
+    padding-left: 40px;
+    border:white solid 2px;
+    border-radius: 20px;
+    margin:50px;
+    padding:20px;
+}
